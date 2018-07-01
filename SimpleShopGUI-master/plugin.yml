@@ -1,7 +1,7 @@
 name: SimpleShopGUI
 main: GuiShop\Main
 version: 1.0.0-BETA2
-api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0, 4.0.0+dev.1224, 4.0.0, 3.0.0-ALPHA12]
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0, 4.0.0+dev.1224, 4.0.0, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15]
 author: TrexCraft Devz
 description: Shopgui by trexcraft
 commands:
