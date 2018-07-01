@@ -207,7 +207,7 @@ public $Blocks = [
   }
 
   public function sendMainShop(Player $player){
-    $ui = new SimpleForm("§4§lHypervionPE §6ShopUI§r!","       §aPurchase and Sell items Here!");
+    $ui = new SimpleForm("§4§lServer §6Shop§r!","       §aPurchase and Sell items Here!");
     foreach($this->item as $category){
       if(isset($category["ICON"])){
         $rawitemdata = $category["ICON"];
