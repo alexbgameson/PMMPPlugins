@@ -1,0 +1,27 @@
+---
+arenas:
+- SW1
+chestitems:
+- - 261
+  - 0
+  - 1
+- - 262
+  - 0
+  - 5
+- - 298
+  - 0
+  - 1
+- - 299
+  - 0
+  - 1
+- - 300
+  - 0
+  - 1
+- - 301
+  - 0
+  - 1
+SW1LobbyTimer: 61
+SW1EndTimer: 16
+SW1GameTimer: 1801
+SW1Status: Lobby
+...

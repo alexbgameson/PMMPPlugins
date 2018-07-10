@@ -1,0 +1,10 @@
+name: BuildUHC
+main: NintendoCore16\Build\Main
+author: NintendoCore and ClembArcade edited
+website: CrankyPeStore.buycraft.net
+version: 1.0
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.4]
+
+commands:
+  buhc:
+    description: "Configuration to BuildUHC..."
